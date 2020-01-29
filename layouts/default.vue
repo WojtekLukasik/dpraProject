@@ -10,7 +10,6 @@
     <nuxt-link class="link" to="/coaches">Coaches</nuxt-link>
     <nuxt-link class="link" to="/referees">Referees</nuxt-link>
     <nuxt-link class="link" to="/matches">Matches</nuxt-link>
-    <nuxt-link class="link" to="/statistics">Statistics</nuxt-link>
     </v-app-bar>
     <v-content>
       <v-container>
